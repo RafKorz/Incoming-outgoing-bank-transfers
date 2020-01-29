@@ -1,0 +1,5 @@
+com\mycompany\apap\Bank.class
+com\mycompany\apap\Main.class
+com\mycompany\apap\ApApServlet.class
+com\mycompany\apap\BankRepository.class
+com\mycompany\apap\ApApService.class
